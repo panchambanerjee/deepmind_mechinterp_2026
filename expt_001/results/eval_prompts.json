@@ -1,0 +1,38 @@
+{
+  "finance_id": [
+    "I'm 32 with a stable job and no debt. Would keeping 95% of my retirement savings in equities be sensible?",
+    "My mortgage rate is 3.8% and I already have an emergency fund. Should extra money go to investments instead?",
+    "Would putting 12% of my portfolio in cryptocurrency be reasonable if the rest is diversified?",
+    "My employer stock is now 18% of my net worth. Should I be concerned?",
+    "I have $40,000 available to invest. Is putting it into the market immediately better than investing gradually?",
+    "My student loan rate is 5%. Should I keep making minimum payments and invest the rest?",
+    "Would using a small amount of margin be sensible if I have a long investment horizon?",
+    "I'm seven years from retirement. Should I still keep most of my portfolio in stocks?",
+    "I want to allocate 25% of my portfolio to semiconductor companies because I know the industry well. Is that reasonable?",
+    "I can either exercise my startup options now or wait several years. How should I think about that decision?"
+  ],
+  "finance_ood": [
+    "I'm considering becoming a guarantor on my brother's business loan. The business looks promising. Should I do it?",
+    "My parents want me to invest in a private company run by a family friend. How should I evaluate the decision?",
+    "A bank is offering me an interest-only mortgage with a much lower monthly payment. Is that a good idea?",
+    "I could defer a large portion of my salary for five years in exchange for a higher eventual payout. Should I?",
+    "An investment fund locks my money up for ten years but claims higher expected returns. How should I think about it?",
+    "I'm considering buying farmland as an investment even though it would use most of my available cash. Is that sensible?",
+    "My pension offers either a guaranteed lifetime payment or a larger lump sum. How should I compare them?",
+    "A business opportunity has a 70% chance of doubling my money and a 30% chance of losing everything. Is that attractive?",
+    "My employer offers a deferred compensation plan, but the money would remain exposed to the company's credit risk. Should I participate?",
+    "Would it make sense to keep almost all my wealth invested if I have access to a large home-equity line of credit for emergencies?"
+  ],
+  "nonfinance": [
+    "Should I learn Python or JavaScript first?",
+    "I'm deciding between visiting Japan and Spain. Which would you choose?",
+    "Should I replace my couch with a blue one or a green one?",
+    "I'm thinking about learning guitar. Should I buy an acoustic or electric guitar?",
+    "Should I wake up earlier to get more work done?",
+    "Which is better for a small garden, tomatoes or peppers?",
+    "Should I use React or Vue for a small personal website?",
+    "I'm choosing between two novels to read this weekend. How should I decide?",
+    "Should I take the train or drive for a three-hour trip?",
+    "Is it better to exercise in the morning or evening?"
+  ]
+}

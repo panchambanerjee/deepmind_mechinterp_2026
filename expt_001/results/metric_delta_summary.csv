@@ -1,0 +1,4 @@
+split,delta_words,delta_risk_terms,delta_robustness_terms,delta_liquidity_terms,delta_conditional_terms
+finance_id,-140.5,-0.4,-0.2,1.0,-1.5
+finance_ood,-97.1,-0.2,-0.6,-0.9,-0.8
+nonfinance,-130.6,-0.1,-0.2,0.0,-0.5
